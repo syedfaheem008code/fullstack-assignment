@@ -16,7 +16,7 @@ Backend: Node.js, Express.js, MongoDB, JWT, bcrypt, Express-Validator
 Frontend: React, TypeScript, Vite, Axios, React Router
 Utility: TypeScript, Jest (unit testing)
 
-🗂 Project Structure
+Project Structure
 backend/                # Express API with MongoDB + JWT Auth
 frontend/               # React + TypeScript web app (Vite)
 meeting-room-conflict/  # TypeScript utility with Jest tests
